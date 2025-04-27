@@ -1,4 +1,4 @@
-# Car-Acceptability-Classification-
+# Car-Acceptability-Classification
 Car Acceptability Classification with Machine Learning
 Project Overview
 This project aims to predict how acceptable a car is for consumers by using machine learning methods. The main objective is to classify cars into categories such as "unacceptable," "acceptable," "good," or "very good" based on features that describe their price, maintenance costs, size, passenger capacity, luggage space, and safety. The project uses the Car Evaluation dataset from the UCI Machine Learning Repository, which is a standard benchmark for this kind of classification task.
